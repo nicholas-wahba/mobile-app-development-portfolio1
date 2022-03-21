@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobile-app-development-portfolio1/static/css/main.073c9b0a.css",
+    "main.js": "/mobile-app-development-portfolio1/static/js/main.2d97e1c5.js",
+    "static/js/787.80113d0d.chunk.js": "/mobile-app-development-portfolio1/static/js/787.80113d0d.chunk.js",
+    "index.html": "/mobile-app-development-portfolio1/index.html",
+    "main.073c9b0a.css.map": "/mobile-app-development-portfolio1/static/css/main.073c9b0a.css.map",
+    "main.2d97e1c5.js.map": "/mobile-app-development-portfolio1/static/js/main.2d97e1c5.js.map",
+    "787.80113d0d.chunk.js.map": "/mobile-app-development-portfolio1/static/js/787.80113d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d97e1c5.js"
+  ]
+}
